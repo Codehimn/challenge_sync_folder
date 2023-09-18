@@ -4,8 +4,8 @@ challenge_sync_folder
 
 ## How to run:
 python veeam_task.py
-(and fololow the instructions)
+<p>(and fololow the instructions)
 
 ## How to run the test:
 python - m pytest
-(This should create a temporary folder and ensure that the program functions correctly.)
+<p>(This should create a temporary folder and ensure that the program functions correctly.)
